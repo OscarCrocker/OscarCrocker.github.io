@@ -1,5 +1,25 @@
 body{
 	background-color: #1a2325;
-	padding: 100px;
-	color: #565c5d
+	padding: 70px;
+	color: #abadad; 
+  font-family: "LFT Etica";
+  font-style: Regular;
+}
+
+a:link{color:#01ccce}
+
+h1{
+  color: white;
+  font-family: "Quatro Slab"
+}
+
+h2{
+  color: #555a5b;
+  font-size: 15px;
+  font-family: "LFT Etica";
+  font-style: book;
+}
+img {
+    float: right;
+    padding: 10px;
 }
