@@ -1,5 +1,6 @@
 body{
 	background-color: #1a2325;
+<<<<<<< Updated upstream
 	padding: 70px;
 	color: #abadad; 
   font-family: "LFT Etica";
@@ -23,3 +24,8 @@ img {
     float: right;
     padding: 10px;
 }
+=======
+	padding: 100px;
+	color: #565c5d
+}
+>>>>>>> Stashed changes
