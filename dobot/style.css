@@ -1,8 +1,14 @@
-body{
-	background-color: #1a2325;
-<<<<<<< Updated upstream
-	padding: 70px;
-	color: #abadad; 
+.container{
+  width:px;
+}
+
+body {
+  margin-right: auto;
+  margin-left: auto;
+  width: 960px;
+  background-color: #1a2325;
+  padding: 10px;
+  color: #abadad; 
   font-family: "LFT Etica";
   font-style: Regular;
 }
@@ -20,12 +26,3 @@ h2{
   font-family: "LFT Etica";
   font-style: book;
 }
-img {
-    float: right;
-    padding: 10px;
-}
-=======
-	padding: 100px;
-	color: #565c5d
-}
->>>>>>> Stashed changes
