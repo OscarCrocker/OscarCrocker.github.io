@@ -1,0 +1,28 @@
+.container{
+  width:px;
+}
+
+body {
+  margin-right: auto;
+  margin-left: auto;
+  width: 960px;
+  background-color: #1a2325;
+  padding: 10px;
+  color: #abadad; 
+  font-family: "LFT Etica";
+  font-style: Regular;
+}
+
+a:link{color:#01ccce}
+
+h1{
+  color: white;
+  font-family: "Quatro Slab"
+}
+
+h2{
+  color: #555a5b;
+  font-size: 15px;
+  font-family: "LFT Etica";
+  font-style: book;
+}
