@@ -68,19 +68,19 @@ h2{
 
 
 
-p {transition-duration: 1s;}
+p {transition-duration: 2s;}
 
 @media (max-width: 450px) {
-  h1 {font-size: 30px;}
-  body{font-size:20px}
-  img{max-width: 350px}
-  
+  h1 {font-size: 20px;}
+  body{font-size:30px}
+  p {color: blue;}
 }
 
 
 @media (min-width: 450px) {
   h1 {font-size: 24px;}
-  body{column-count:1;
+  p {color: black;}
+  body{column-count:3;
 }
 
 
